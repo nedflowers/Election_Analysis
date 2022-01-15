@@ -9,7 +9,7 @@
 ### Election Results Document:
 
 ![IMAGE_A](Resources/IMAGE_A.png)
-##### [IMAGE_A]
+***[IMAGE_A]***
 
 
 ### Analysis of Election Results
@@ -31,8 +31,8 @@ The script was successful in determining Diane DeGetta as the winner of the U.S.
 If a city’s recreational annual budget tightened and officials needed to determine which events, activities, or programs to eliminate, they could hold votes. I could assist with their tough decision by writing a decision statement [IMAGE C] to determine which event, activity, or program received the least votes. Whichever activity has the least votes is the least popular and the city can use this information to make budget cuts around the needs of their constituents.
 
 ![IMAGE_B](Resources/IMAGE_B.png)
-##### [IMAGE_B]
+***[IMAGE_B]***
 
 ![IMAGE_C](Resources/IMAGE_C.png)
-##### [IMAGE_C]
+***[IMAGE_C]***
 
