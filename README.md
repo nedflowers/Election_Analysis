@@ -10,8 +10,6 @@ In this analysis of a U.S. Congressional precinct in Colorado’s election data,
 
 ![IMAGE_A](Resources/IMAGE_A.png)
 
-[^IMAGE_A]:
-
 
 ### Analysis of Election Results
 - A total of 369,711 votes were cast in the election.
@@ -30,13 +28,13 @@ In this analysis of a U.S. Congressional precinct in Colorado’s election data,
 
 The script successfully Diane DeGetta as the winner of the U.S. Congressional precint. Representative DeGetta won the election by a 47.7% margin and 176,073 votes. Not only does this script make analyzing county elections a breeze, with a few modifications, it can be used in State and local elections as well. If it were a State election, I could add lists and dictionaries [IMAGE_B] to hold values for Districts and Counties per District, add a calculation, and quickly determine the winner of the State election. For local elections, with the required data, I could break down the votes for mayor by adding script to find vote counts and percentages per zip or postal code. 
 
+![IMAGE_B](Resources/IMAGE_B.png)
+***[IMAGE_B]***
+
 If a city’s recreational annual budget tightened and officials needed to determine which events, activities, or programs to eliminate, they could hold votes. I could assist with their tough decision by writing a decision statement [IMAGE_C] to determine which event, activity, or program received the least votes. Whichever activity has the least votes is the least popular and the city can use this information to make budget cuts around the needs of their constituents.
 
-![IMAGE_B](Resources/IMAGE_B.png)
-
-[^IMAGE_B]:
 
 ![IMAGE_C](Resources/IMAGE_C.png)
+***[IMAGE_C]***
 
-[^IMAGE_C]:
 
