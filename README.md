@@ -6,7 +6,10 @@
  
 ## Election Analysis and Outcome
 
-### Election Results Document [Image A]:
+### Election Results Document:
+
+![IMAGE_A](Resources/IMAGE_A.png)
+##### [IMAGE_A]
 
 
 ### Analysis of Election Results
@@ -26,3 +29,10 @@ o	Raymon Anthony Doane: 11,606 (3.1%)
 
 The script was successful in determining Diane DeGetta as the winner of the U.S. Congressional precint. Representative DeGetta won the election by a 47.7% margin and 176,073 votes. Not only does this script make analyzing county elections a breeze, with a few modifications, it can be used in State and local elections as well. If it were a State election, I could add lists and dictionaries [IMAGE B] to hold values for Districts and Counties per District, add a calculation, and quickly determine the winner of the State election. For local elections, with the required data, I could break down the votes for mayor by adding script to find vote counts and percentages per zip or postal code. 
 If a city’s recreational annual budget tightened and officials needed to determine which events, activities, or programs to eliminate, they could hold votes. I could assist with their tough decision by writing a decision statement [IMAGE C] to determine which event, activity, or program received the least votes. Whichever activity has the least votes is the least popular and the city can use this information to make budget cuts around the needs of their constituents.
+
+![IMAGE_B](Resources/IMAGE_B.png)
+##### [IMAGE_B]
+
+![IMAGE_C](Resources/IMAGE_C.png)
+##### [IMAGE_C]
+
