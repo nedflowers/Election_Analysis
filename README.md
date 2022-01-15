@@ -8,9 +8,8 @@
 
 ### Election Results Document:
 
-<p align="center">
-![IMAGE_A](Resources/IMAGE_A.png)
-</p>
+![IMAGE_A](Resources/IMAGE_A.png/?style=centerme)
+
 ***[IMAGE_A]***
 
 
